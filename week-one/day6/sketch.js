@@ -61,9 +61,4 @@ function render(t) {
             circle(x, y, d)
         }
     }
-
-    if (record && frameCount <= 100) {
-        saveCanvas("gif-" + counter, "png")
-        counter++
-    }
 }
