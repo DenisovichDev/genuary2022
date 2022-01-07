@@ -1,4 +1,4 @@
-// Hypertransformation of 20 Concentric Squares 1974
+// Based on Hypertransformation of 20 Concentric Squares 1974 by Vera Molnar
 
 let corners = []
 let offsets = []
